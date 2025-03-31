@@ -42,7 +42,7 @@ A modern and user-friendly Flutter application that allows you to download TikTo
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/TiktokDL-APP.git
+git clone https://github.com/imcr1/TiktokDL-APP.git
 ```
 
 2. Navigate to the project directory
