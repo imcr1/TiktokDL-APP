@@ -6,8 +6,10 @@
 
 A modern and user-friendly Flutter application that allows you to download TikTok videos without watermark. Built with Flutter and featuring a beautiful Material Design interface.
 
-![App Screenshot 1](repoAssets/1.jpg)
-![App Screenshot 2](repoAssets/2.jpg)
+<div align="center">
+  <img src="repoAssets/1.jpg" alt="App Screenshot 1" width="300">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="repoAssets/2.jpg" alt="App Screenshot 2" width="300">
+</div>
 
 ## ✨ Features
 
