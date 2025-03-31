@@ -22,13 +22,21 @@ A modern and user-friendly Flutter application that allows you to download TikTo
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### Direct Download
+
+📱 [Download Latest APK](https://github.com/imcr1/TiktokDL-APP/releases/download/tikdl/app-armeabi-v7a-release_1.apk)
+
+> Note: This APK is for ARM devices (most Android phones). Make sure to enable installation from unknown sources in your device settings.
+
+### Build from Source
+
+#### Prerequisites
 
 - Flutter SDK
 - Android Studio / VS Code
 - Git
 
-### Installation
+#### Installation
 
 1. Clone the repository
 ```bash
