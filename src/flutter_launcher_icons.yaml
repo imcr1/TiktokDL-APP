@@ -1,0 +1,26 @@
+# flutter pub run flutter_launcher_icons
+flutter_launcher_icons:
+  image_path: "assets/icon/icon.png"
+  android: "launcher_icon"
+  adaptive_icon_background: "#191919"
+  adaptive_icon_foreground: "assets/icon/icon.png"
+  fit: "fill" # Changed to fill to remove margins
+  min_sdk_android: 21
+
+  ios: false
+  remove_alpha_channel_ios: true
+
+  web:
+    generate: false
+    image_path: "assets/icon/icon.png"
+    background_color: "#hexcode"
+    theme_color: "#hexcode"
+
+  windows:
+    generate: false
+    image_path: "assets/icon/icon.png"
+    icon_size: 48
+
+  macos:
+    generate: false
+    image_path: "assets/icon/icon.png"
